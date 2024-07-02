@@ -15,7 +15,7 @@
 
  
 
-- 🌱 I’m currently learning TypeScript, React-Native & Go.
+- 🌱 I’m currently learning TypeScript, javascript & Go.
 
 - 💬 Talk to me about React,   JavaScript, Freelancing Opportunities etc.
  - 📫 Reach me at **bdmail674@gmail.com**  
