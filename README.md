@@ -2,7 +2,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHEEUyFGjNHdkRphJoWk7jONHH9tzl4bDVw&s" />
  
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+ 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Rafiet Rana</h1>  
 <h3 align="center">A passionate Front End Web Developer</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
