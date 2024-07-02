@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHEEUyFGjNHdkRphJoWk7jONHH9tzl4bDVw&s" />
+<img src="https://i.ibb.co/MNdwZvH/githubcovver.png" />
  
 </div>
  
